@@ -9,7 +9,7 @@
       "authors": ["Robyn Cuffey"],
       "image": "./equestrians_guide_to_acadia.jpg",
       "additionalInfo": "Includes 6 handy, easy to read laminated cards with directions through the carriage roads. Ready to clip on your saddle or belt.",
-      "additionalImage": "../assets/direction_cards.gif",
+      "additionalImage": "./direction_cards.gif",
       "isbnNumber": "3141592653589"
     },
     {
@@ -19,7 +19,7 @@
       "title": "Retraining the Harness Racehorse",
       "description": "At last, an easy, step-by-step guide to retraining harness racehorses for pleasure use is available for Standardbred owners...although books on training abound, none were specifically geared towards Standardbreds and their strengths and weaknesses until now. Both authors bring years of Standardbred retraining experiences to the work, and share them throughout the book. ~ Anne Loiselle, Hoof Beats magazine",
       "authors": ["Mary Anne Donovan-Wright", "Robyn Cuffey"],
-      "image": "../assets/Retraining-Cover-2014-Web.jpg",
+      "image": "./Retraining-Cover-2014-Web.jpg",
       "additionalInfo": "",
       "additionalImage": "",
       "isbnNumber": "3141592653590"
@@ -31,7 +31,7 @@
       "title": "The Essential Guide to Carriage Driving",
       "description": "Seeing the need for a truly practical guide to carriage driving, the authors combined their over thirty years of driving experience in the writing of The Essential Guide to Carriage Driving. Generously illustrated with over 350 photographs and diagrams and covering topics ranging from the selection and fitting of harness and vehicle to preparing for competition and driving multiples, this book is sure to become an indispensable resource.",
       "authors":  ["Robyn Cuffey", "Jaye-Allison Winkel"],
-      "image": "../assets/essential_guide_carriage_driving.jpg",
+      "image": "./essential_guide_carriage_driving.jpg",
       "additionalInfo": "Paperback, 8 ½ x 11 in., 155 pages, with black and white photos and drawings. Published 2003.",
       "additionalImage": "",
       "isbnNumber": "0-9746351-0-3"
