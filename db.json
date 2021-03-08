@@ -7,7 +7,7 @@
       "title": "Equestrians' Guide to Acadia",
       "description": "Everything you need to know to have an enjoyable trip to Acadia National Park with your horse. Information includes directions to the Park, accomodations for horses and humans, preparative fitness and training as well as highlights of the famous Carriage Roads.",
       "authors": ["Robyn Cuffey"],
-      "image": "../assets/equestrians_guide_to_acadia.jpg",
+      "image": "./assets/equestrians_guide_to_acadia.jpg",
       "additionalInfo": "Includes 6 handy, easy to read laminated cards with directions through the carriage roads. Ready to clip on your saddle or belt.",
       "additionalImage": "../assets/direction_cards.gif",
       "isbnNumber": "3141592653589"
