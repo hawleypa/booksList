@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id": 123,
+      "id": "123",
       "price": 12.49,
       "shippingHandling": 2.49,
       "title": "Equestrians' Guide to Acadia",
@@ -14,7 +14,7 @@
       "isbnNumber": "3141592653589"
     },
     {
-      "id": 456,
+      "id": "456",
       "price": 24.95,
       "shippingHandling": 3.00,
       "title": "Retraining the Harness Racehorse",
@@ -27,7 +27,7 @@
       "isbnNumber": "3141592653590"
     },
     {
-      "id": 789,
+      "id": "789",
       "price": 24.95,
       "shippingHandling": 3.00,
       "title": "The Essential Guide to Carriage Driving",
